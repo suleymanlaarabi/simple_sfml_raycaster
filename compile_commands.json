@@ -1,0 +1,41 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/src/Camera.o",
+      "src/Camera.cpp"
+    ],
+    "directory": "/home/suleyman/project/wolf",
+    "file": "/home/suleyman/project/wolf/src/Camera.cpp",
+    "output": "/home/suleyman/project/wolf/build/src/Camera.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/src/event.o",
+      "src/event.cpp"
+    ],
+    "directory": "/home/suleyman/project/wolf",
+    "file": "/home/suleyman/project/wolf/src/event.cpp",
+    "output": "/home/suleyman/project/wolf/build/src/event.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/main.o",
+      "main.cpp"
+    ],
+    "directory": "/home/suleyman/project/wolf",
+    "file": "/home/suleyman/project/wolf/main.cpp",
+    "output": "/home/suleyman/project/wolf/build/main.o"
+  }
+]
